@@ -1,0 +1,17 @@
+com/wemakesoftware/navigationsystem/exceptions/RestExceptionHandler.class
+com/wemakesoftware/navigationsystem/repositories/MobileStationRepository.class
+com/wemakesoftware/navigationsystem/entities/dto/MobileStationLocation.class
+com/wemakesoftware/navigationsystem/entities/BaseStation.class
+com/wemakesoftware/navigationsystem/entities/Coordinate.class
+com/wemakesoftware/navigationsystem/exceptions/MobileStationNotFoundException.class
+com/wemakesoftware/navigationsystem/repositories/DetectionReportRepository.class
+com/wemakesoftware/navigationsystem/entities/MobileStation.class
+com/wemakesoftware/navigationsystem/services/BaseStationService.class
+com/wemakesoftware/navigationsystem/entities/dto/DetectionReport.class
+com/wemakesoftware/navigationsystem/controllers/NavigationController.class
+com/wemakesoftware/navigationsystem/services/MobileStationService.class
+com/wemakesoftware/navigationsystem/repositories/BaseStationRepository.class
+com/wemakesoftware/navigationsystem/services/RandomCoordinateGenerator.class
+com/wemakesoftware/navigationsystem/NavigationsystemApplication.class
+com/wemakesoftware/navigationsystem/entities/dto/MobileStationReport.class
+com/wemakesoftware/navigationsystem/services/StationInitializer.class

@@ -1,0 +1,5 @@
+com/wemakesoftware/navigationsystem/NavigationsystemApplicationTests.class
+com/wemakesoftware/navigationsystem/integration/StationControllersIntegrationTest.class
+com/wemakesoftware/navigationsystem/unit/MobileStationServiceTest.class
+com/wemakesoftware/navigationsystem/TestConfiguration.class
+com/wemakesoftware/navigationsystem/unit/RandomCoordinateGeneratorTest.class

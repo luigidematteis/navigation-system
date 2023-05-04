@@ -1,0 +1,17 @@
+/home/user/Desktop/wemakesoftware_project/navigationsystem/src/main/java/com/wemakesoftware/navigationsystem/services/BaseStationService.java
+/home/user/Desktop/wemakesoftware_project/navigationsystem/src/main/java/com/wemakesoftware/navigationsystem/repositories/BaseStationRepository.java
+/home/user/Desktop/wemakesoftware_project/navigationsystem/src/main/java/com/wemakesoftware/navigationsystem/exceptions/MobileStationNotFoundException.java
+/home/user/Desktop/wemakesoftware_project/navigationsystem/src/main/java/com/wemakesoftware/navigationsystem/NavigationsystemApplication.java
+/home/user/Desktop/wemakesoftware_project/navigationsystem/src/main/java/com/wemakesoftware/navigationsystem/services/StationInitializer.java
+/home/user/Desktop/wemakesoftware_project/navigationsystem/src/main/java/com/wemakesoftware/navigationsystem/entities/dto/MobileStationLocation.java
+/home/user/Desktop/wemakesoftware_project/navigationsystem/src/main/java/com/wemakesoftware/navigationsystem/repositories/DetectionReportRepository.java
+/home/user/Desktop/wemakesoftware_project/navigationsystem/src/main/java/com/wemakesoftware/navigationsystem/entities/Coordinate.java
+/home/user/Desktop/wemakesoftware_project/navigationsystem/src/main/java/com/wemakesoftware/navigationsystem/controllers/NavigationController.java
+/home/user/Desktop/wemakesoftware_project/navigationsystem/src/main/java/com/wemakesoftware/navigationsystem/entities/BaseStation.java
+/home/user/Desktop/wemakesoftware_project/navigationsystem/src/main/java/com/wemakesoftware/navigationsystem/entities/dto/DetectionReport.java
+/home/user/Desktop/wemakesoftware_project/navigationsystem/src/main/java/com/wemakesoftware/navigationsystem/entities/dto/MobileStationReport.java
+/home/user/Desktop/wemakesoftware_project/navigationsystem/src/main/java/com/wemakesoftware/navigationsystem/repositories/MobileStationRepository.java
+/home/user/Desktop/wemakesoftware_project/navigationsystem/src/main/java/com/wemakesoftware/navigationsystem/services/MobileStationService.java
+/home/user/Desktop/wemakesoftware_project/navigationsystem/src/main/java/com/wemakesoftware/navigationsystem/services/RandomCoordinateGenerator.java
+/home/user/Desktop/wemakesoftware_project/navigationsystem/src/main/java/com/wemakesoftware/navigationsystem/entities/MobileStation.java
+/home/user/Desktop/wemakesoftware_project/navigationsystem/src/main/java/com/wemakesoftware/navigationsystem/exceptions/RestExceptionHandler.java
